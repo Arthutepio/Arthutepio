@@ -1,16 +1,70 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--
-**Arthutepio/Arthutepio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+ARTHUR+COSTA;I'm+35+years+old;I+from+Belo+Horizonte,+MG;I+study+systems+development+at+TRYBE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arthutepio&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arthur Costa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthutepio&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Built With
+
+ * Front-End
+ 
+> [![HTML5][HTML5]][HTML5-url][![CSS3][CSS3]][CSS3-url][![Javascript][Javascript]][Javascript-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![React][React.js]][React-url][![Redux][React-Redux.js]][React-Redux-url][![MUI][MUI]][MUI-url]
+
+ * Back-End
+> [![MySQL][MySQL]][MySQL-url][![Node.js][Node.js]][Node.js-url][![Typescript][Typescript]][Typescript-url]
+
+ * Testing
+
+ > [![Jest][Jest]][Jest-url][![RTL][RTL]][RTL-url]
+
+ * DevOps
+
+ >[![Linux][Linux]][Linux-url][![git][git]][git-url][![GitHub][GitHub]][GitHub-url][![Docker][Docker]][Docker-url]
+ 
+ ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Arthutepio&theme=gotham)
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ 
+ <!-- FRONT END -->
+[HTML5]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-URL]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
+[Javascript-url]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[MUI]: https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[MUI-url]: https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[React-Redux.js]: https://img.shields.io/badge/react_redux-764ABC?style=for-the-badge&logo=redux&logoColor=white
+[React-Redux-url]: https://react-redux.js.org/
+
+<!-- BACK-END -->
+[MySQL]: https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[MySQL-url]: https://dev.mysql.com/doc/
+[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+[Node.js-url]: https://nodejs.org/
+[Typescript]: https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+[Typescript-url]: https://www.typescriptlang.org/
+[Typescript-url]: https://www.typescriptlang.org/
+[Docker]: https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+
+<!-- TESTING -->
+[Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io/
+[RTL]: https://img.shields.io/badge/testing_library-E33332?style=for-the-badge&logo=testing-library&logoColor=white
+[RTL-url]: https://testing-library.com/
+
+<!-- DEV OPS -->
+[Linux]: https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white
+[Linux-url]: https://www.linux.org/
+[git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com/doc
+[GitHub]: https://img.shields.io/badge/git_hub-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
